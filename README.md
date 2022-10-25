@@ -1,5 +1,5 @@
 # Informatin
-The bot will help you to mint NFT on BlueMove launchpad. This bot runs on ChromeDriver browser emulation, loads without images to increase speed.
+The bot will help you to mint NFT on BlueMove launchpad. This bot runs on Selenium browser emulation, loads without images to increase speed.
 I do not guarantee that you will definitely have time to mint NFT, but it will obviously be faster than minting by hand. To increase the chances, you can run several copies with the same or different wallets.
 
 
