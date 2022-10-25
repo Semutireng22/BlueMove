@@ -9,6 +9,7 @@ Bot for mint NFT in BlueMove launchpad
 3. Open CMD and install modules   
     `pip install selenium requests webdriver-manager`
 4. Setup config.json
+
     `launchpadLink` --> Launchpad link on Bluemove
     
     `seedPhrase` --> Your wallet seedPhrase (Careful do not share this key)
